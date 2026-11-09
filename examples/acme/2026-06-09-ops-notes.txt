@@ -1,0 +1,7 @@
+date: 2026-06-09
+
+Ops notes
+
+Dana owns the on-call rotation from this week and maintains the PagerDuty schedule.
+
+The EU cluster runs in eu-west-1; the US cluster runs in us-east-2.

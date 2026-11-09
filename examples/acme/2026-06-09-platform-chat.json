@@ -1,0 +1,10 @@
+{
+  "title": "#platform channel export",
+  "date": "2026-06-09",
+  "messages": [
+    {"author": "Marco", "text": "Heads up: with the new canary pipeline we are lifting the Friday deploy freeze. Deploys are allowed on Fridays again, as long as they go through canary first."},
+    {"author": "Dana", "text": "Nice. Lunch anyone?"},
+    {"author": "Marco", "text": "Also, 'golden path' means the supported template for new services: FastAPI, Postgres, and the shared CI workflow."},
+    {"author": "Sam", "text": "Got it, thanks!"}
+  ]
+}
